@@ -19,7 +19,7 @@ Code:
 
 :grinning:
 
-## Headig 2
+## Heading 2
 
 <Details>
   Hi, you found it
