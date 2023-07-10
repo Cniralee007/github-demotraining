@@ -1,4 +1,4 @@
-#Heading 1
+# Heading 1
 some test text
 
 * Test 1
@@ -19,6 +19,6 @@ Code:
 
 :grinning:
 
-##Headig 2
+## Headig 2
 
-###Heading 3
+### Heading 3
