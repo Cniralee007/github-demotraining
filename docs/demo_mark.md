@@ -11,18 +11,18 @@ some test text
  
 Code:
 
----
+```
  for x in 
  print("test")
  
----
+```
 
 :grinning:
 
 ## Headig 2
 
-<Deatils>
- Hi, you found it
-</Deatils>
+<Details>
+  Hi, you found it
+</Details>
 
 ### Heading 3
