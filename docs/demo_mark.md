@@ -12,7 +12,7 @@ some test text
 Code:
 
 ```
- for x in 
+ for x in y:
  print("test")
  
 ```
